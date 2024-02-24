@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I love you too! 😘";
+  question.innerHTML = "I Love you too 😘";
   gif.src =
-    "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
+    "https://media1.tenor.com/m/ffMOSxTLgPoAAAAC/they-said-eat-mexican-jumping-beans-and-look-like-a-star-panda.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
