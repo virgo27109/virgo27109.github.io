@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I Love you too 😘";
+  question.innerHTML = "เยซูยินดีต้อนรับเจ้า เอเมน";
   gif.src =
-    "https://media1.tenor.com/m/taqSRWFOkaQAAAAC/kung-fu-panda.gif";
+    "https://tenor.com/th/view/jesus-god-love-bless-you-gif-11461432";
 });
 
 noBtn.addEventListener("mouseover", () => {
